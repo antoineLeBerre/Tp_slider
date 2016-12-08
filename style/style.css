@@ -1,0 +1,23 @@
+ul{
+	list-style-type: none;
+	display: flex;
+}
+
+#grande_image img{
+	height: 337px;
+	width: 600px;
+}
+
+#miniature img{
+	height: 56px;
+	width: 100px;
+}
+
+#slider_grande{
+	width: 600px;
+	overflow: hidden;
+}
+
+#slider_miniature{
+	padding-right: 50px;
+}
